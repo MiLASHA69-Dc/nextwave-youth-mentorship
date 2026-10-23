@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+coverage/
+.openai/local/
